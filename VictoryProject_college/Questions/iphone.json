@@ -1,0 +1,21 @@
+{
+  "name": "iPhones",
+  "questions": [
+    {
+      "text": "В якому році вийшов перший iPhone?",
+      "answers": ["2007", "2010", "2006", "1999"]
+    },
+    {
+      "text": "В якому iPhone було вперше 2 камери?",
+      "answers": ["iPhone 7 Plus", "iPhone X", "iPhone 7S", "iPhone 9", "iPhone 6S Plus"]
+    },
+    {
+      "text": "Яка була ціна першого iPhone?",
+      "answers": ["499$", "549$", "699$", "399$"]
+    },
+    {
+      "text": "Яка назва першого iPhone?",
+      "answers": ["iPhone 2G", "iPhone 1", "iPhone 1-st", "Original iPhone"]
+    }
+  ]
+}
