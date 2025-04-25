@@ -17,6 +17,7 @@ class Program
 class Vistory
 {
     public Quiz? quiz = null;
+    public int score = 0;
     
     public void LoadVictory()
     {
@@ -69,12 +70,10 @@ class Vistory
             }
 
             if (question.answers[choice] == correct)
-                Console.WriteLine("Correct!");
-            else
-                Console.WriteLine("Wrong!");
-
-            Console.ReadKey();
+                ++score;
         }
+
+        Console.WriteLine($"Result: {score}/{quiz.questions.Length}");
     }
 }
 

@@ -1,0 +1,37 @@
+{
+  "name": "Cars",
+  "questions": [
+    {
+      "text": "Який автомобіль вважається першим у світі?",
+      "answers": ["Benz Patent-Motorwagen", "Ford Model T", "Peugeot Type 1", "Fiat 3½ HP"]
+    },
+    {
+      "text": "Яка країна є батьківщиною бренду Toyota?",
+      "answers": ["Японія", "Південна Корея", "Китай", "США"]
+    },
+    {
+      "text": "Який електромобіль став найпопулярнішим у 2023 році за кількістю проданих одиниць?",
+      "answers": ["Tesla Model Y", "BYD Atto 3", "Volkswagen ID.4", "Nissan Leaf"]
+    },
+    {
+      "text": "Який бренд виробляє моделі A4, Q7, і R8?",
+      "answers": ["Audi", "BMW", "Lexus", "Porsche"]
+    },
+    {
+      "text": "Що означає абревіатура ABS в автомобілях?",
+      "answers": ["Anti-lock Braking System", "Automatic Battery Supply", "Active Balance Suspension", "Auto Brake Support"]
+    },
+    {
+      "text": "Яка компанія першою впровадила масове виробництво автомобілів на конвеєрі?",
+      "answers": ["Ford", "Chevrolet", "Mercedes-Benz", "Renault"]
+    },
+    {
+      "text": "Який тип двигуна використовує Tesla Model S?",
+      "answers": ["Електричний", "Бензиновий", "Гібридний", "Дизельний"]
+    },
+    {
+      "text": "Яка максимальна дозволена швидкість за містом в Україні?",
+      "answers": ["130 км/год", "120 км/год", "90 км/год", "100 км/год"]
+    }
+  ]
+}
